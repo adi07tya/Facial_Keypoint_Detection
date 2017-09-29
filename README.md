@@ -1,20 +1,20 @@
 # Facial_Keypoint_Detection
 
-This Project was done as a part CS-574 (Computer Vision using Machine Learning) course at IIT Guwahati.
+This project was done as a part CS-574 (Computer Vision using Machine Learning) course at IIT Guwahati.
 
 ## Dependencies
 1. Numpy
 2. Python 3.6
-3. Keras(with Theano Backend)
+3. Keras(with Tensorflow Backend)
 4. Pandas
 5. Scikit-Learn
 
 ## Architectures 
-We have tried out 4 kinds of Architecture namely :
+We have tried out 4 types of Architecture namely :
 1) RandomForest
    * Data was split into 33% test data and 77% training data.
    * RMSE = 2.02725802
-2) Feed-Forward Neural Network (with single hidden layer of 100 Neuron)
+2) Feed-forward Neural Network (with single hidden layer of 100 neuron)
    * Data was split into 33% test data and 77% training data.
    * RMSE = 2.71529003976
    * Some result on test data: 
