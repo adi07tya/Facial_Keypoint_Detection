@@ -21,7 +21,7 @@ We have tried out 4 types of Architecture namely :
    * ![alt text](http://danielnouri.org/media/kfkd/samples1.png)
 3) Convolutional Neural Network 
    * Following architecture was used for the experiment :
-   * ![alt text](screenshots/save.PNG)
+   * ![alt text](dataset/save.PNG)
 4) Convolutional Neural Network (with dropout on every layer)
 
 ## Project Members
