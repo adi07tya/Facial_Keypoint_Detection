@@ -12,20 +12,20 @@ This project was done as a part CS-574 (Computer Vision using Machine Learning) 
 ## Architectures 
 We have tried out 4 types of Architecture namely :
 1) RandomForest
-   * Data was split into 33% test data and 77% training data.
+   * Data was split into 23% test data and 77% training data.
    * RMSE = 2.72725802
 2) Feed-forward Neural Network (with single hidden layer of 100 neuron)
-   * Data was split into 33% test data and 77% training data.
+   * Data was split into 23% test data and 77% training data.
    * RMSE = 2.98529003976
    * Some result on test data: 
    * ![alt text](http://danielnouri.org/media/kfkd/samples1.png)
 3) Convolutional Neural Network 
-   * Data was split into 33% test data and 77% training data.
+   * Data was split into 23% test data and 77% training data.
    * RMSE = 2.5521943944
    * Following CNN architecture was used for model-3 and model-4 :
    * ![alt text](dataset/save.PNG)
 4) Convolutional Neural Network (with dropout on every layer)
-   * Data was split into 33% test data and 77% training data.
+   * Data was split into 23% test data and 77% training data.
    * Dropout probablity of 0.5 was used in model 4.
    * RMSE = 2.32341972693
    * Following is the comparison of model-3 and model-4 :
